@@ -1,0 +1,36 @@
+Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+
+For this assignment we were given Artemis Financial. They are a client that provides financial services to their users. Their services mainly surround online banking. 
+There were many problems that we were assigned to be fixed. Starting off with identifying the software security vulnerabilities. 
+This was done through the Eclipse IDE using Maven to provide dependency check. After identifying the issues, correcting them was also a task we needed to complete. 
+This was mainly done by updating their software to the current versions and allowing them to be compatible with one another inside the software. 
+We were also tasked with adding layers of security through SHA-256. This provided a 256-bit level encryption using a key that protected the user’s and client’s information.  
+
+What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
+
+The area that I did well was understanding how to do the Maven dependency check and generating the report. Once I learned how to do this it was easily replicated throughout the different assignments in the class.  
+The most important thing about any software that involves the users is their protection. If the client or user is not secure, the entire operation is null. 
+Software security adds value to the company because it forms the character of the company. If the user understands that a company has the user’s protection in their best interest the integrity of the client is unparalleled. 
+
+What part of the vulnerability assessment was challenging or helpful to you?
+
+By far the most difficult part of these assignments was updating the software and making it compatible with the other aspects of the projects. The main problem surrounding the software was not the current version. 
+When updating the various aspects of the program, for example spring boot, a new series of issues would arise withing the program.
+
+How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
+
+Running the software is clearly the way to make sure it is working properly. Debugging the code was the quickest way to accomplish this.
+
+The main way to increase layers is by making the program have bit level encryption using a key. I would use the same techniques; dependency check to see vulnerabilities withing the program.
+
+How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
+
+Running the software is clearly the way to make sure it is working properly. Debugging the code was the quickest way to accomplish this.
+
+What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
+
+Dependency source checking was fantastic to find what the issues that needed to be addressed. I think that having a team would be much more helpful in the future in dealing with multiple problems.
+
+Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+
+How to accomplish a maven dependency check inside of their software to show their vulnerabilities. This is how I would show a future employee. 
