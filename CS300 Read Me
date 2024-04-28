@@ -1,0 +1,25 @@
+What was the problem you were solving in the projects for this course?
+
+There were many assignments involved in this course. There were many problems that I came across when completing the assignments. 
+First, the development of the specific tasks that needed to be completed. Second, properly configuring the application inside the 
+Visual Studio IDE in order that it was capable of properly running. Finaly fixing the issues that arise through the entire application.
+
+How did you approach the problem? Consider why data structures are important to understand.
+The first problem was solved by applying the principles that were introduced in the ZyBook. Secondly, for me this was trial and error. 
+I tried many different configurations until the application seemed to work and I used that as a baseline in my application. Finally, 
+to fix the errors in the application I ran the application through the debug. This aided me with understanding why the application was 
+not doing what I need it to do. Thus, understanding the problem the fixing it. 
+
+How did you overcome any roadblocks you encountered while going through the activities or project?
+
+I overcame many roadblocks by reaching out to my professor when I was stuck. I also referred to my book many times to see what syntax 
+error may be causing the issue. 
+
+How has your work on this project expanded your approach to designing software and developing programs?
+
+Being able to cultivate an application from start to finish was fantastic for me. Reading a book about how to do it is one thing. 
+But by doing everything myself I was able to understand how to utilize the correct syntax and connect the dots withing the program.
+
+How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+
+I think that the work on this project helped have a systematic approach with programming that can be applied to any software design. 
