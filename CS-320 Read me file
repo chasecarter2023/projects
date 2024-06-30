@@ -1,0 +1,22 @@
+How can I ensure that my code, program, or software is functional and secure?
+
+There are many things that are necessary to make sure that the software is functional and secure. Having a structured 
+methodology in place during the planning phase is important to establish before any project is begun. Using a specific 
+framework will aid in the development by having guidelines in place to follow. This is to make sure that the requirements 
+of the company and the needs of the users are met. Once the development has begun, testing is important to ensure quality 
+and function of any program. Testing also allows the developer to see potential threats and vulnerabilities that the 
+software is susceptible to. Once the tests have been done adjust the code to make sure that its functionality and security 
+are required.
+
+How do I interpret user needs and incorporate them into a program?
+
+The purpose of the software is for the user. The user will show what they need the software to accomplish. Users’ stories, 
+and the product owner backlog, are two ways that the developer knows what the objective of the project is. Once the developer
+knows what the needs of the user are, and what the company requirements are. the software can be developed to accomplish this.
+
+How do I approach designing software?
+
+There are several approaches when designing software. All of which accomplish tasks and the requirements of the company. 
+Some ways to approach software design are by using flow charts, pseudocode, and UML diagrams. These approaches give some 
+guidance to how the programs should flow. They also provide the sequence of how the code should be organized. By using one 
+of these approaches the code can be scalable and easily maintainable.
